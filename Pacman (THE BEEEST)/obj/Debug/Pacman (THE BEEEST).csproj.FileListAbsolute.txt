@@ -1,0 +1,8 @@
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\bin\Debug\Pacman (THE BEEEST).exe.config
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\bin\Debug\Pacman (THE BEEEST).exe
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\bin\Debug\Pacman (THE BEEEST).pdb
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\obj\Debug\Pacman (THE BEEEST).csproj.AssemblyReference.cache
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\obj\Debug\Pacman (THE BEEEST).csproj.SuggestedBindingRedirects.cache
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\obj\Debug\Pacman (THE BEEEST).csproj.CoreCompileInputs.cache
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\obj\Debug\Pacman (THE BEEEST).exe
+C:\Users\NIKITA\Desktop\Учеба ВСЯ\Программирование Универ\Завод C#\Pacman (THE BEEEST)\obj\Debug\Pacman (THE BEEEST).pdb
